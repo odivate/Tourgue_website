@@ -195,7 +195,7 @@ header {
 }
 
 .content-section2 .container4 a{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.2)), url("Assets/office01.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.2)), url("office01.jpg");
     background-repeat: no-repeat;
     height: 445px;
     width: 175vh;
